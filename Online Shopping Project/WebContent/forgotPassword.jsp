@@ -11,14 +11,14 @@
      <input type ="email" name="email" placeHolder= "Enter Email" required>
      <input type ="number" name="mobileNumber" placeHolder= "Enter Mobile Numer" required>
      <select name="securityQuestion" >
-     <option value ="Name of your university ?">Name of your university ?</option>
-   	 <option value ="Name of your favorite color ?">Name of your favorite color ?</option>
-   	 <option value ="What was your ex-crush ?">What was your ex-crush ?</option>
-   	 <option value ="What is your dream ?">What is your dream ?</option>
+     	<option value ="Name of your university ?">Name of your university ?</option>
+   	 	<option value ="Name of your favorite color ?">Name of your favorite color ?</option>
+   	 	<option value ="Who was your ex-crush ?">Who was your ex-crush ?</option>
+   	 	<option value ="What is your dream ?">What is your dream ?</option>
      </select>
-          <input type ="text" name="answer" placeHolder= "Enter Answer" required>
-          <input type ="password" name="newPassword" placeHolder= "Enter Your New Password" required>
-          <input type ="submit" value="Save">
+     <input type ="text" name="answer" placeHolder= "Enter Answer" required>
+     <input type ="password" name="newPassword" placeHolder= "Enter Your New Password" required>
+     <input type ="submit" value="Save">
 
      </form>
       <h2><a href="login.jsp">Login</a></h2>
